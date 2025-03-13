@@ -1,3 +1,7 @@
+<h2 align="left">Stats</h2>
+
+###
+
 <br clear="both">
 
 <div align="left">
