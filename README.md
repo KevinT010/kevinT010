@@ -40,5 +40,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" height="40" alt="ifttt logo"  />
 </div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+</div>
 
 ###
